@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ![urbanlandscape](landscape.gif)
 
 
-
+<img align="center" src="https://github.com/NastaranMO/NastaranMO/blob/3a3a0253f7f3049eb8c9e04c2561ed660d7d3139/landscape.gif" alt="Nastaran Moghadasi" height="282" />
 
 <h1 align="center">Hi 👩‍💻, I'm Nastaran</h1>
 <h3 align="center">A professional full stack developer.</h3>
