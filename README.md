@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👩‍💻, I'm Nastaran</h1>
 <h3 align="center">A professional full stack developer.</h3>
 
+<p>
+A goal-oriented software engineer passionate about programming who has a record of success in being a problem solver & getting things done. Through my continuous improvement mindset I’m eager to learn new things and challenge myself. I enjoy building & working on a product which makes people’s life easier and better, it adds purpose to my work-life.
+</p>
+
 - 📫 How to reach me **nastaran.moghadasi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
