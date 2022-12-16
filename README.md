@@ -9,7 +9,7 @@
 <p>✅ Always open to new challenges for my growth.
 </p>
 
-- 📫 How to reach me **nastaran.moghadasi@gmail.com**
+ 📫 How to reach me **nastaran.moghadasi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
