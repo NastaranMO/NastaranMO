@@ -4,7 +4,7 @@
 <h3 align="center">A professional full stack developer.</h3>
 
 <p>
-✅ A goal-oriented software engineer based in Amsterdam. </p>
+🌎 A goal-oriented software engineer based in Amsterdam. </p>
 <p>✅ Passionate about coding, collaborating, problem solving and learning new things.</p>
 <p>✅ Always open to new challenges for my growth.
 </p>
