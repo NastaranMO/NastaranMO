@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👩‍💻, I'm Nastaran</h1>
 <h3 align="center">A professional full stack developer.</h3>
 
-<p>
-🌎 A goal-oriented software engineer based in Amsterdam. </p>
-<p>✅ Passionate about coding, collaborating, problem solving and learning new things.</p>
-<p>✅ Always open to new challenges for my growth.
-</p>
+<ul>
+ <li>🌎 A goal-oriented software engineer based in Amsterdam. </li>
+<li>✅ Passionate about coding, collaborating, problem solving and learning new things.</li>
+ <li>✅ Always open to new challenges for my growth.</li>
+<//ul>
 
  📫 How to reach me **nastaran.moghadasi@gmail.com**
 
