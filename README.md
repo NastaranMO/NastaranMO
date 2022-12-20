@@ -5,7 +5,7 @@
 
 <ul>
  <li>🌎 A goal-oriented software engineer based in Amsterdam. </li>
-<li>❤️‍🔥 Passionate about coding, collaborating, problem solving and learning new things.</li>
+<li>❤️‍🔥 Passionate about coding, problem solving and learning new things.</li>
  <li>🧩 Always open to new challenges for my growth.</li>
  <li>📫 How to reach me **nastaran.moghadasi@gmail.com**</li>
 <//ul>
